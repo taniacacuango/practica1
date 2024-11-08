@@ -1,0 +1,26 @@
+-------------------QUE ES EL VERCIONAMINETO-------------------------
+El versionamiento (o control de versiones) es el proceso de gestionar y registrar los cambios
+realizados a los archivos de un proyecto a lo largo del tiempo. Esto permite a los desarrolladores
+ (o cualquier persona que trabaje con archivos) realizar un seguimiento de las modificaciones, 
+identificar quién hizo cada cambio y, si es necesario, revertir a versiones anteriores.
+
+Principales características del versionamiento:
+Registro de cambios: Cada cambio que se 
+realiza en los archivos se guarda en un historial, lo que permite ver qué modificaciones se hicieron, cuándo y por quién.
+
+Trabajo en equipo: Facilita que varias personas trabajen en el mismo proyecto sin conflictos, 
+ya que permite que todos los miembros del equipo vean los cambios realizados y puedan sincronizar su trabajo.
+
+Reversión de cambios: Si se introduce un error o problema en el proyecto,
+ el sistema de control de versiones permite volver a una versión anterior, minimizando el riesgo de perder el trabajo.
+
+Ramas y fusión: Con el versionamiento, se pueden crear "ramas" 
+(branches) para trabajar en nuevas características sin afectar la versión principal del proyecto.
+ Luego, se pueden fusionar las ramas cuando las nuevas características estén listas.
+
+Ejemplos de sistemas de control de versiones
+Algunos sistemas de control de versiones populares son:
+
+Git: Es uno de los más usados, y es el que GitHub, GitLab y Bitbucket utilizan.
+SVN (Apache Subversion): Otro sistema ampliamente utilizado, especialmente en proyectos más antiguos.
+Mercurial: Es otro sistema de control distribuido, aunque menos popular que Git.
