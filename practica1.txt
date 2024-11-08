@@ -3,3 +3,5 @@ CACUANGO: hola mile como estas?
 CABASCANGO: hola tani, muy bien y tu?
 CACUANGO: Todo bien, ¡aunque un poco estresada por el proyecto de investigación! ¿Tú cómo vas con el tuyo?
 CABASCANGO: Uf, igual, es mucho trabajo. Justo anoche me quedé hasta tarde avanzando la parte de análisis. A veces siento que nunca acabaré.
+CACUANGO: Te entiendo. Yo todavía estoy en la parte de recopilación de datos, y me falta un montón. ¿Ya te reuniste con el profesor para ver si vas por buen camino?
+CABASCANGO: Sí, la semana pasada. Me dio algunos consejos sobre cómo mejorar el marco teórico. Me ayudó, pero también me dejó más cosas que hacer. 😅
