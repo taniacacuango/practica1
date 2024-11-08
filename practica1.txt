@@ -1,19 +1,37 @@
-hola
+      --------------hola------------------
+
 CACUANGO: hola mile como estas?
+
 CABASCANGO: hola tani, muy bien y tu?
+
 CACUANGO: Todo bien, ¡aunque un poco estresada por el proyecto de investigación! ¿Tú cómo vas con el tuyo?
+
 CABASCANGO: Uf, igual, es mucho trabajo. Justo anoche me quedé hasta tarde avanzando la parte de análisis. A veces siento que nunca acabaré.
+
 CACUANGO: Te entiendo. Yo todavía estoy en la parte de recopilación de datos, y me falta un montón. ¿Ya te reuniste con el profesor para ver si vas por buen camino?
+
 CABASCANGO: Sí, la semana pasada. Me dio algunos consejos sobre cómo mejorar el marco teórico. Me ayudó, pero también me dejó más cosas que hacer. 😅
+
 CACUANGO: ¡Qué suerte! Yo aún no he podido reunirme con él; sus horarios están siempre llenos. ¿Me podrías pasar algunos de esos consejos? Me vendrían genial.
+
 CABASCANGO: Claro, mañana te llevo mis notas y te explico lo que me dijo. Te van a servir, porque también aplica para el tema que estás investigando.
+
 CACUANGO: ¡Gracias, Mile! Te debo una. Por cierto, ¿ya viste el nuevo trabajo grupal para la clase de estadística?
+
 CABASCANGO: ¡Sí! Justo ayer lo estuve revisando. ¿Tú ya sabes con quién vas a hacerlo?
+
 CACUANGO: Pensé en preguntarte si querías que lo hiciéramos juntas. Nos entendemos bien, y así podemos dividirnos las tareas.
+
 CABASCANGO: ¡Obvio! Sería genial. ¿Cuándo empezamos? Yo puedo este fin de semana.
+
 CACUANGO: Perfecto. ¿Te parece bien el sábado en la biblioteca? Así adelantamos antes de la fecha de entrega.
+
 CABASCANGO: ¡Súper! Llevemos algunos bocadillos y hacemos de eso un mini maratón de estudio.
+
 CACUANGO: Me encanta la idea. A propósito, ¿quieres repasar juntas para el examen de psicología también? ¡No quiero que me pille de sorpresa!
+
 CABASCANGO: ¡Sí, por favor! Ese examen me tiene nerviosa. Lo revisamos después de trabajar en el proyecto, ¿te parece?
+
 CACUANGO: Listo, tenemos un plan. Gracias por siempre estar ahí, Mile.
+
 CABASCANGO: Gracias a ti, Tani. Nos vemos el sábado, ¡y no olvides los bocadillos!
