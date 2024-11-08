@@ -1,3 +1,5 @@
 hola
 CACUANGO: hola mile como estas?
 CABASCANGO: hola tani, muy bien y tu?
+CACUANGO: Todo bien, ¡aunque un poco estresada por el proyecto de investigación! ¿Tú cómo vas con el tuyo?
+CABASCANGO: Uf, igual, es mucho trabajo. Justo anoche me quedé hasta tarde avanzando la parte de análisis. A veces siento que nunca acabaré.
